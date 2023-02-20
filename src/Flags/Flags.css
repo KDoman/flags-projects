@@ -1,0 +1,12 @@
+.container-flags {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.country-input {
+  padding: 0.5em 1em;
+}
+.input-div {
+  display: flex;
+  justify-content: center;
+}
